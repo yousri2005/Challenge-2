@@ -44,6 +44,8 @@ body
   }
   
   #vechtsport {
+    width: 350px;
+    height: 300px;
     position: relative;
-    left: 100px;
+    left: 300px;
   }
