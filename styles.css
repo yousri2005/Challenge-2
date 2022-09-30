@@ -43,4 +43,26 @@ body
     text-decoration: none;
   }
   
-  
+  /* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+/* Instragam */
+.fa-instagram {
+  color: rgb(76, 0, 0);
+  background-color: #2196F3;
+}
+#insta{
+width: 1550px;
+}
