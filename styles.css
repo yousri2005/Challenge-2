@@ -43,3 +43,7 @@ body
     text-decoration: none;
   }
   
+  #vechtsport {
+    position: relative;
+    left: 100px;
+  }
