@@ -42,5 +42,12 @@ body
   h2{
     text-decoration: none;
   }
-  
+
+  #Logo
+  {
+    top: 250px;
+    left: 600px;
+    position: absolute;
+    border-radius: 100%;
+  }
   
