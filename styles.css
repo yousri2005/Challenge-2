@@ -37,11 +37,20 @@ body
 
   #text1
   {
-    margin-left: 555px;
+    margin-left: 600px;
   }
   h2{
     text-decoration: none;
   }
+
+  #Logo
+  {
+    top: 250px;
+    left: 500px;
+    position: absolute;
+    border-radius: 100%;
+  }
+  
   
   #vechtsport {
     width: 350px;
