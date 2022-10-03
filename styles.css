@@ -107,3 +107,27 @@ left: 100px;
   position: relative;
   left: 450px;
 }
+#judo {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#kickboksen {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
+#karate {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#jiujitsu {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
