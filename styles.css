@@ -89,3 +89,21 @@ left: 100px;
   position: relative;
   left: 300px;
 }
+#rugby {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
+#handbal {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#honkbal {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
