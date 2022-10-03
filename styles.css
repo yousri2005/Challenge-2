@@ -51,3 +51,10 @@ body
     border-radius: 100%;
   }
   
+  
+  #vechtsport {
+    width: 350px;
+    height: 300px;
+    position: relative;
+    left: 300px;
+  }
