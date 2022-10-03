@@ -1,6 +1,6 @@
 body
 {
-  background-image: url('messi.gif');
+  background-image: url('badr1.gif');
     
 }
 /* Style the links inside the sidenav */
@@ -44,7 +44,7 @@ body
   #Logo
   {
     top: 250px;
-    left: 500px;
+    left: 600px;
     position: absolute;
     border-radius: 100%;
   }
@@ -75,14 +75,6 @@ body
   position: relative;
   left: 450px;
 }
-#messi
-
-{ background-image:url('messi.gif') ; background-repeat:repeat;
-  
-top: 600px;
-left: 100px;
-
- }
 #voetbal {
   width: 350px;
   height: 300px;
