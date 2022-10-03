@@ -1,6 +1,7 @@
 body
 {
-    background-color: mediumturquoise;
+  background-image: url('messi.gif');
+    
 }
 /* Style the links inside the sidenav */
 #mySidenav a {
@@ -38,11 +39,8 @@ body
   #text1
   {
     margin-left: 600px;
+    color: purple;
   }
-  h2{
-    text-decoration: none;
-  }
-
   #Logo
   {
     top: 250px;
@@ -77,3 +75,11 @@ body
   position: relative;
   left: 450px;
 }
+#messi
+
+{ background-image:url('messi.gif') ; background-repeat:repeat;
+  
+top: 600px;
+left: 100px;
+
+ }
