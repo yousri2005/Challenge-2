@@ -49,3 +49,16 @@ body
     position: relative;
     left: 300px;
   }
+
+  #balsport {
+    width: 350px;
+    height: 300px;
+    position: relative;
+    left: 450px;
+  }
+#water {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
