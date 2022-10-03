@@ -123,3 +123,15 @@ body
   position: relative;
   left: 450px;
 }
+#wedstrijdzwemmen {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#waterpolo {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
