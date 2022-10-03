@@ -43,6 +43,7 @@ body
     text-decoration: none;
   }
   
+<<<<<<< HEAD
   /* Style all font awesome icons */
 .fa {
   padding: 20px;
@@ -66,3 +67,11 @@ body
 #insta{
 width: 1550px;
 }
+=======
+  #vechtsport {
+    width: 350px;
+    height: 300px;
+    position: relative;
+    left: 300px;
+  }
+>>>>>>> fca1d7a90ba2ce8739331b0cfa28930159fe8ca4
