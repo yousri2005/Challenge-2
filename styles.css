@@ -23,17 +23,16 @@ background-color: #a7e0da;
   /* The about link: 20px from the top with a green background */
   #Home {
     top: 20px;
-    background-color: #04AA6D;
+    background-color: cadetblue;
   }
   
   #cat {
     top: 80px;
-    background-color: #2196F3; /* Blue */
+    background-color: darkslategray;
   }
-  
   #contact {
     top: 140px;
-    background-color: #f44336; /* Red */
+    background-color: midnightblue;
   }
 
   #text1
@@ -164,6 +163,9 @@ HEAD
   left: 200px;
   position: absolute;
 }
+
+
+  
 #mail{
 width: 150px;
 position: relative;
