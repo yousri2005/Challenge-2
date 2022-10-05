@@ -163,9 +163,6 @@ HEAD
   left: 200px;
   position: absolute;
 }
-
-
-  
 #mail{
 width: 150px;
 position: relative;
@@ -183,4 +180,18 @@ position: relative;
 width: 150px;
 top: 80px;
 left: 0px;
+}
+#rugby1 {
+  width: 450px;
+  height: 300px;
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+#voetbal1 {
+  width: 450px;
+  height: 300px;
+  position: absolute;
+  left: 200px;
+  top: 100px;
 }
