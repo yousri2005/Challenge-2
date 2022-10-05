@@ -1,6 +1,7 @@
 body
 {
-    background-color: mediumturquoise;
+  background-image: url('badr1.gif');
+    
 }
 /* Style the links inside the sidenav */
 #mySidenav a {
@@ -37,11 +38,17 @@ body
 
   #text1
   {
-    margin-left: 555px;
+    margin-left: 600px;
+    color: purple;
   }
-  h2{
-    text-decoration: none;
+  #Logo
+  {
+    top: 250px;
+    left: 600px;
+    position: absolute;
+    border-radius: 100%;
   }
+  
   
   #vechtsport {
     width: 350px;
@@ -49,3 +56,82 @@ body
     position: relative;
     left: 300px;
   }
+
+  #balsport {
+    width: 350px;
+    height: 300px;
+    position: relative;
+    left: 450px;
+  }
+#water {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#overigesport {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
+#voetbal {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#rugby {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
+#handbal {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#honkbal {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
+#judo {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#kickboksen {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
+#karate {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#jiujitsu {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
+#wedstrijdzwemmen {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+}
+#waterpolo {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+}
