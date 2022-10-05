@@ -39,12 +39,12 @@ background-color: #a7e0da;
   #text1
   {
     margin-left: 600px;
-    color: purple;
+    color: azure;
   }
   #Logo
   {
     top: 250px;
-    left: 600px;
+    left: 500px;
     position: absolute;
     border-radius: 100%;
   }
@@ -157,4 +157,10 @@ HEAD
   height: 300px;
   position: relative;
   left: 450px;
+}
+#badr
+{
+  width: 100px;
+  left: 200px;
+  position: absolute;
 }
