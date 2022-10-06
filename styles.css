@@ -174,8 +174,16 @@ HEAD
   width: 350px;
   height: 300px;
   position: relative;
-  left: 450px;
-  border-radius: 10px;
+  left: -405px;
+  top: 300px;
+  border-radius: 20px;
+}
+#onderwaterhockey {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: -255px;
+  top: 300px;
 }
 #badr
 {
