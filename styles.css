@@ -162,8 +162,15 @@ HEAD
   position: relative;
   left: 300px;
   border-radius: 10px;
+  left: 450px;
 }
 #waterpolo {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px
+}
+#synchroonzwemmen {
   width: 350px;
   height: 300px;
   position: relative;
