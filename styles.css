@@ -67,6 +67,7 @@ HEAD
     height: 300px;
     position: relative;
     left: 300px;
+    border-radius: 10px;
   }
   /* Style all font awesome icons */
 .fa {
