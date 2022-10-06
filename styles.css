@@ -84,102 +84,119 @@ HEAD
     height: 300px;
     position: relative;
     left: 450px;
+    border-radius: 10px;
   }
 #water {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
+  border-radius: 10px;
 }
 #overigesport {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
+  border-radius: 10px;
 }
 #voetbal {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
+  border-radius: 10px;
 }
 #rugby {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
+  border-radius: 10px;
 }
 #handbal {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
+  border-radius: 10px;
 }
 #honkbal {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
+  border-radius: 10px;
 }
 #judo {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
+  border-radius: 10px;
 }
 #kickboksen {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
+  border-radius: 10px;
 }
 #karate {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
+  border-radius: 10px;
 }
 #jiujitsu {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
+  border-radius: 10px;
 }
 #wedstrijdzwemmen {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
+  border-radius: 10px;
 }
 #waterpolo {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
+  border-radius: 10px;
 }
 #badr
 {
   width: 100px;
   left: 200px;
   position: absolute;
+  border-radius: 10px;
 }
 #mail{
 width: 150px;
 position: relative;
 top: 75px;
 left: 150px;
+border-radius: 20px;
 }
 #insta{
 width: 150px;
 position: relative;
 top: -280px;
 left: -150px;
+border-radius: 20px;
 }
 #face{
 position: relative;
 width: 150px;
 top: 80px;
 left: 0px;
+border-radius:  20px;
 }
 #rugby1 {
   width: 450px;
@@ -187,6 +204,7 @@ left: 0px;
   position: absolute;
   left: 200px;
   top: 100px;
+  border-radius:  10px;
 }
 #voetbal1 {
   width: 450px;
@@ -194,6 +212,7 @@ left: 0px;
   position: absolute;
   left: 200px;
   top: 100px;
+  border-radius: 10px;
 }
 #handbal1 {
   width: 450px;
@@ -201,11 +220,36 @@ left: 0px;
   position: absolute;
   left: 150px;
   top: 100px;
+  border: 10px;
 }
 #honkbal1 {
-  width: 450px;
-  height: 300px;
+  width: 350px;
   position: absolute;
   left: 200px;
   top: 100px;
+  border-radius: 10px;
+}
+#miguel
+{
+  top: 100px;
+  left: 150px;
+  position: absolute;
+  height: 250px;
+  border-radius: 10px;
+}
+#judo2
+{
+  height: 250px;
+  top: 100px;
+  left: 200px;
+  position: absolute;
+  border-radius: 10px;
+}
+#jiujitsu2
+{
+  top: 100px;
+  left: 150px;
+  position: absolute;
+  height: 230px;
+  border-radius: 10px;
 }
