@@ -312,6 +312,13 @@ border-radius:  35px;
   left: 300px;
   border-radius: 10px;
 }
+#golf {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+  border-radius: 10px;
+}
 #badr1
 {
   width: 450px;
