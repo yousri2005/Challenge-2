@@ -231,6 +231,14 @@ border-radius:  35px;
   top: 100px;
   border-radius:  10px;
 }
+#karate1 {
+  width: 450px;
+  height: 300px;
+  position: absolute;
+  left: 200px;
+  top: 100px;
+  border-radius: 10px;
+}
 #waterpolo1 {
   width: 450px;
   height: 300px;
@@ -312,8 +320,20 @@ border-radius:  35px;
   left: 300px;
   border-radius: 10px;
 }
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
+#badr1
+{
+  top: 80px;
+  left: 150px;
+  width: 350px;
+  position: absolute;
+  border-radius: 10px;
+}
+
+#paard2
+{
+  top: 130px;
+  left: 200px;
+  position: absolute;
+  height: 300px;
+  border-radius: 10px;
 }
