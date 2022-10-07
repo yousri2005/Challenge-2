@@ -312,3 +312,8 @@ border-radius:  35px;
   left: 300px;
   border-radius: 10px;
 }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
