@@ -338,3 +338,17 @@ border-radius:  35px;
   border-radius: 10px;
   border-radius: 10px;
 }
+#boogschieten {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+  border-radius: 10px;
+}
+#hardlopen {
+  width: 350px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+  border-radius: 10px;
+}
