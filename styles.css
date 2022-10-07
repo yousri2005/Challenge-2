@@ -231,6 +231,14 @@ border-radius:  35px;
   top: 100px;
   border-radius:  10px;
 }
+#karate1 {
+  width: 450px;
+  height: 300px;
+  position: absolute;
+  left: 200px;
+  top: 100px;
+  border-radius: 10px;
+}
 #waterpolo1 {
   width: 450px;
   height: 300px;
