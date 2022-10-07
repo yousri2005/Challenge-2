@@ -328,3 +328,12 @@ border-radius:  35px;
   position: absolute;
   border-radius: 10px;
 }
+
+#paard2
+{
+  top: 130px;
+  left: 200px;
+  position: absolute;
+  height: 300px;
+  border-radius: 10px;
+}
