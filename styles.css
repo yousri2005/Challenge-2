@@ -312,3 +312,11 @@ border-radius:  35px;
   left: 300px;
   border-radius: 10px;
 }
+#badr1
+{
+  top: 80px;
+  left: 150px;
+  width: 350px;
+  position: absolute;
+  border-radius: 10px;
+}
