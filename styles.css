@@ -250,9 +250,9 @@ border-radius:  35px;
 #wedstrijdzwemmen1 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 500px;
+  top: 0px;
   border-radius: 10px;
 }
 #synchroonzwemmen1 {
