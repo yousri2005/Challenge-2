@@ -1,6 +1,6 @@
 body
 {
-background-color: rgb(188, 244, 246);
+background-color: rgb(7, 56, 58);
     
 }
 /* Style the links inside the sidenav */
@@ -352,3 +352,22 @@ border-radius:  35px;
   left: 450px;
   border-radius: 10px;
 }
+#bgolf{
+width: 450px;
+position: relative;
+border-radius: 10px;
+left: 500px;
+}
+#hard2{
+  width: 500px;
+  position: relative;
+  border-radius: 10px;
+  left: 500px;
+  }
+  #boogschiet1{
+    width: 500px;
+    position: relative;
+    border-radius: 10px;
+    left: 500px;
+    }
+    
