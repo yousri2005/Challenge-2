@@ -226,9 +226,9 @@ border-radius:  35px;
 #rugby1 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 550px;
+  top: 0px;
   border-radius:  10px;
 }
 #karate1 {
@@ -266,9 +266,9 @@ border-radius:  35px;
 #voetbal1 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 550px;
+  top: 0px;
   border-radius: 10px;
 }
 #handbal1 {
