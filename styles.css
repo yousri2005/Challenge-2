@@ -218,9 +218,9 @@ border-radius:  35px;
 #onderwaterhockey1 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 500px;
+  top: 0px;
   border-radius: 10px;
 }
 #rugby1 {
@@ -234,33 +234,33 @@ border-radius:  35px;
 #karate1 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 550px;
+  top: 0px;
   border-radius: 10px;
 }
 #waterpolo1 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 500px;
+  top: 0px;
   border-radius: 10px;
 }
 #wedstrijdzwemmen1 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 500px;
+  top: 0px;
   border-radius: 10px;
 }
 #synchroonzwemmen1 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 500px;
+  top: 0px;
   border-radius: 10px;
 }
 #voetbal1 {
@@ -290,18 +290,18 @@ border-radius:  35px;
 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 550px;
+  top: 0px;
   border-radius: 10px;
 }
 #jiujitsu2
 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 550px;
+  top: 0px;
   border-radius: 10px;
 }
 
@@ -323,9 +323,9 @@ border-radius:  35px;
 {
   width: 450px;
   height: 300px;
-  position: absolute;
-  left: 200px;
-  top: 100px;
+  position: relative;
+  left: 550px;
+  top: 0px;
   border-radius: 10px;
 }
 
