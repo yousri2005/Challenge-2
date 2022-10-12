@@ -34,6 +34,10 @@ background-color: rgb(7, 56, 58);
     top: 140px;
     background-color: midnightblue;
   }
+  #help {
+    top: 200px;
+    background-color: blue;
+  }
 
   #text1
   {
