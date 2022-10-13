@@ -44,6 +44,33 @@ background-color: rgb(151, 221, 175);
     margin-left: 600px;
     
   }
+  /* .linear-fade {
+    mask-image: radial-gradient(
+      to top,
+      rgba(0, 0, 0, 0) 0em,
+      rgba(0, 0, 0, 1) 3.75em);
+  -webkit-mask-image: 
+      radial-gradient(
+        to top,
+        rgba(0, 0, 0, 0) 0em,
+        rgba(0, 0, 0, 1) 3.75em);} */
+        .linear-fade {
+          mask-image: radial-gradient(
+            ellipse,
+            black 50%,
+            transparent);
+        -webkit-mask-image: 
+            radial-gradient(
+              ellipse,
+              black 50%,
+              transparent);}
+  #logo1
+  {
+    /* mask-image: linear-gradient(to right, rgba(0, 0, 0, 1.0) 50%, transparent 100%);
+    -webkit-mask-image: -webkit-gradient(to right, rgba(0, 0, 0, 1.0) 50%, transparent 100%); */
+    width: 200px;
+    height: 200px;
+  }
   #Logo
   {
     top: 250px;
@@ -366,6 +393,17 @@ HEAD
   border-radius: 10px;
   left: 500px;
   }
+  #boogschiet1{
+    width: 500px;
+    position: relative;
+    border-radius: 10px;
+    left: 500px;
+    }
+    #vid{
+    left: 350px;
+    position: relative;
+    width: 400px;
+    }
  #boogschiet1{
   width: 500px;
   position: relative;
