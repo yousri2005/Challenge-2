@@ -374,5 +374,10 @@ left: 500px;
     border-radius: 10px;
     left: 500px;
     }
+    #vid{
+    left: 350px;
+    position: relative;
+    width: 400px;
+    }
 
     
