@@ -60,12 +60,12 @@ HEAD
   width: 50px;
   text-align: center;
   text-decoration: none;
-}
+  }
 
 /* Add a hover effect if you want */
 .fa:hover {
   opacity: 0.7;
-}
+  }
   #vechtsport {
     width: 350px;
     height: 300px;
@@ -80,8 +80,7 @@ HEAD
   width: 50px;
   text-align: center;
   text-decoration: none;
-}
-
+  }
 /* Add a hover effect if you want */
 
   #balsport {
@@ -97,84 +96,84 @@ HEAD
   position: relative;
   left: 300px;
   border-radius: 10px;
-}
+  }
 #overigesport {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
   border-radius: 10px;
-}
+  }
 #voetbal {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
   border-radius: 10px;
-}
+  }
 #rugby {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
   border-radius: 10px;
-}
+  }
 #handbal {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
   border-radius: 10px;
-}
+  }
 #honkbal {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
   border-radius: 10px;
-}
+  }
 #judo {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
   border-radius: 10px;
-}
+  }
 #kickboksen {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
   border-radius: 10px;
-}
+  }
 #karate {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
   border-radius: 10px;
-}
+  }
 #jiujitsu {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
   border-radius: 10px;
-}
+  }
 #wedstrijdzwemmen {
   width: 350px;
   height: 300px;
   position: relative;
   left: 450px;
   border-radius: 10px;
-}
+  }
 #waterpolo {
   width: 350px;
   height: 300px;
   position: relative;
   left: 300px;
   border-radius: 10px;
-}
+  }
 #synchroonzwemmen {
   width: 350px;
   height: 300px;
@@ -182,7 +181,7 @@ HEAD
   left: 95px;
   top: 305px;
   border-radius: 10px;
-}
+  }
 #onderwaterhockey {
   width: 350px;
   height: 300px;
@@ -190,35 +189,34 @@ HEAD
   left: -760px;
   top: 305px;
   border-radius: 10px;
-}
-#badr
-{
+  }
+#badr{
   width: 100px;
   left: 200px;
   position: absolute;
   border-radius: 10px;
-}
+  }
 #mail{
-width: 150px;
-position: relative;
-top: 75px;
-left: 150px;
-border-radius: 35px;
-}
+  width: 150px;
+  position: relative;
+  top: 75px;
+  left: 150px;
+  border-radius: 35px;
+  }
 #insta{
-width: 150px;
-position: relative;
-top: -280px;
-left: -150px;
-border-radius: 35px;
-}
+  width: 150px;
+  position: relative;
+  top: -280px;
+  left: -150px;
+  border-radius: 35px;
+  }
 #face{
-position: relative;
-width: 150px;
-top: 80px;
-left: 0px;
-border-radius:  35px;
-}
+  position: relative;
+  width: 150px;
+  top: 80px;
+  left: 0px;
+  border-radius:  35px;
+  }
 #onderwaterhockey1 {
   width: 450px;
   height: 300px;
@@ -357,17 +355,18 @@ border-radius:  35px;
   border-radius: 10px;
 }
 #bgolf{
-width: 450px;
-position: relative;
-border-radius: 10px;
-left: 500px;
-}
+  width: 450px;
+  position: relative;
+  border-radius: 10px;
+  left: 500px;
+  }
 #hard2{
   width: 500px;
   position: relative;
   border-radius: 10px;
   left: 500px;
   }
+<<<<<<< HEAD
   #boogschiet1{
     width: 500px;
     position: relative;
@@ -379,5 +378,13 @@ left: 500px;
     position: relative;
     width: 400px;
     }
+=======
+ #boogschiet1{
+  width: 500px;
+  position: relative;
+  border-radius: 10px;
+  left: 500px;
+  }
+>>>>>>> e29c1798d354e015b00784251a33f04c024c974e
 
     
